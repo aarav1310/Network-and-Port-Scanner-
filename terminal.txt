@@ -1,0 +1,19 @@
+# Copy the commands to your kali Linux window one by one
+
+
+nmap -sV scame.nmap.org
+
+nmap -sV -O scanme.nmap.org -T2   #this process might take 10mins or more to execute   
+
+
+cd Desktop
+
+** Copy the below command **
+
+python3 tool.py {Ip_address}
+
+example: 
+
+python3 tool.py google.com
+
+python3 tool.py 142.251.42.14
