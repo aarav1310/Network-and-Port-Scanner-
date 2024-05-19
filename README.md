@@ -7,7 +7,7 @@ STEP1: Login to your Kali Linux
 
 STEP2: Open a text editor ( Either leafpad or Mousepad )
 
-STEP3: Copy the code and paste from the Network.py file from the repository to the text editor
+STEP3: Copy the code and paste it from the Network.py file from the repository to the text editor
 
 STEP4: Save the txt file giving the py extension at your desired destination ( eg: tool.py)
 
